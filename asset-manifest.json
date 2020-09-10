@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-gallery-app/static/css/main.ac0785fe.chunk.css",
+    "main.js": "/react-gallery-app/static/js/main.55008804.chunk.js",
+    "main.js.map": "/react-gallery-app/static/js/main.55008804.chunk.js.map",
+    "runtime-main.js": "/react-gallery-app/static/js/runtime-main.ec27dbd4.js",
+    "runtime-main.js.map": "/react-gallery-app/static/js/runtime-main.ec27dbd4.js.map",
+    "static/js/2.1eba3e82.chunk.js": "/react-gallery-app/static/js/2.1eba3e82.chunk.js",
+    "static/js/2.1eba3e82.chunk.js.map": "/react-gallery-app/static/js/2.1eba3e82.chunk.js.map",
+    "index.html": "/react-gallery-app/index.html",
+    "precache-manifest.1768584ca6d4f961f39aae8c865632b0.js": "/react-gallery-app/precache-manifest.1768584ca6d4f961f39aae8c865632b0.js",
+    "service-worker.js": "/react-gallery-app/service-worker.js",
+    "static/css/main.ac0785fe.chunk.css.map": "/react-gallery-app/static/css/main.ac0785fe.chunk.css.map",
+    "static/js/2.1eba3e82.chunk.js.LICENSE.txt": "/react-gallery-app/static/js/2.1eba3e82.chunk.js.LICENSE.txt",
+    "static/media/rolling.svg": "/react-gallery-app/static/media/rolling.cc3d34d9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec27dbd4.js",
+    "static/js/2.1eba3e82.chunk.js",
+    "static/css/main.ac0785fe.chunk.css",
+    "static/js/main.55008804.chunk.js"
+  ]
+}
